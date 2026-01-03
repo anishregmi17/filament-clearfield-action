@@ -2,7 +2,7 @@
 
 A Filament action that allows users to quickly reset all form fields with customizable confirmation dialogs and notifications.
 
-<img width="1920" height="1080" alt="clearfieldaction" src="https://github.com/user-attachments/assets/ec187c2b-4692-4c33-bd06-7eeb87ea27b7" />
+![clearaction](https://github.com/user-attachments/assets/76d04117-c6b4-474a-87d6-b79e20f5e179)
 
 ## Features
 
