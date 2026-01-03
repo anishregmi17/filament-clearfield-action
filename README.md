@@ -1,6 +1,6 @@
 # Clear Field Action for Filament
 
-A Filament action that enables seamless clearing of form fields. This action allows users to quickly reset all form fields with customizable confirmation dialogs and notifications.
+A Filament action that allows users to quickly reset all form fields with customizable confirmation dialogs and notifications.
 ![clearfield-action](https://github.com/user-attachments/assets/2657ccac-b79a-4526-84d2-d0d48d6038d5)
 
 
