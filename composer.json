@@ -1,0 +1,53 @@
+{
+    "name": "anish/clearfield-action",
+    "type": "library",
+    "description": "A powerful Filament PHP action that enables seamless clearing of form fields. Features include clearing form fields, confirmation dialog, and notification.",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "filament",
+        "clearfield-action",
+        "laravel-package",
+        "filament-component"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Anish\\ClearfieldAction\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Anish\\ClearfieldAction\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "anishregmi17",
+            "email": "anishregminaglibang@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^8.1",
+        "filament/filament": "^4.0",
+        "spatie/laravel-package-tools": "^1.15.0"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "format": "vendor/bin/pint"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Anish\\ClearfieldAction\\ClearFieldActionServiceProvider"
+            ]
+        }
+    }
+}
