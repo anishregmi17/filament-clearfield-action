@@ -1,7 +1,7 @@
 {
     "name": "anish/clearfield-action",
     "type": "library",
-    "description": "A Filament action that allows users to quickly reset all form fields with customizable confirmation dialogs and notifications."
+    "description": "A Filament action that allows users to quickly reset all form fields with customizable confirmation dialogs and notifications.",
     "license": "MIT",
     "keywords": [
         "laravel",
