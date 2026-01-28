@@ -12,12 +12,12 @@ A Filament action that allows users to quickly reset all form fields with custom
 - Success notifications
 - Works with Create and Edit pages
 - Customizable callbacks (before/after reset)
-- **Compatible with Filament v4**
+- **Compatible with Filament v4 & v5**
 
 ## Requirements
 
 - PHP 8.1+
-- Filament 4.0+
+- Filament 4.0+ | 5.0+
 - Laravel 10+
 
 ## Installation
@@ -144,6 +144,7 @@ Available configuration options:
 This package supports:
 
 - Filament v4.0+
+- Filament v5.0+
 
 ## License
 
